@@ -2,7 +2,7 @@
 
 ## Demo
 
-[<img src="/src/assets/codedeck.png" alt="Home Page"/>](https://www.youtube.com/watch?v=mEFBdhQmpy4&t=3s&ab_channel=VishalRajput)
+[<img src="/src/assets/CodeZero.png" alt="Home Page"/>](https://www.youtube.com/watch?v=mEFBdhQmpy4&t=3s&ab_channel=VishalRajput)
 
 ## Project Objective
 
@@ -28,10 +28,11 @@
 
 # Link & References
 
-- [Live Project Link](https://code-deck.vercel.app/)
+- [Live Project Link](https://code-CodeZero.vercel.app/)
 - [Judge0 CE API Testing](https://rapidapi.com/judge0-official/api/judge0-ce)
 - [Judge0 CE API Documentation](https://ce.judge0.com/)
 - [Styled Component Documentation](https://styled-components.com/docs/basics) -> for styling
 - [CodeMirror](https://uiwjs.github.io/react-codemirror/) -> for Coding Editor
 - [Vercel](https://vercel.com/) -> for hoisting
+
 # codeZero
